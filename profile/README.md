@@ -37,6 +37,8 @@ Proyek ini terbagi menjadi dua repositori utama:
 
 TemanDifa dibangun di atas arsitektur modern yang terdistribusi untuk memastikan skalabilitas, keandalan, dan kemudahan pemeliharaan.
 
+<img src="https://github.com/TemanDifa/.github/blob/main/profile/arsitektur-temandifa.png" alt="Arsitektur TemanDifa"  />
+
 **Alur Kerja Singkat:**
 
 1.  **Aplikasi Klien** berinteraksi dengan **API Gateway** sebagai satu-satunya titik masuk.
@@ -51,13 +53,13 @@ Berikut adalah teknologi utama yang kami gunakan di seluruh ekosistem TemanDifa:
 
 | Kategori | Teknologi |
 | --- | --- |
-| **Frontend** | `React Native`, `Expo`, `TypeScript`, `React Navigation`, `Zustand` |
-| **Backend** | `Node.js`, `Express.js`, `Python`, `Flask`, `Socket.IO` |
-| **AI / Machine Learning** | `YOLOv8`, `OpenAI Whisper`, `Tesseract OCR` |
-| **Database & Cache** | `MongoDB`, `Redis` |
-| **Panggilan Video** | `Agora SDK` |
-| **DevOps & Infrastruktur** | `Docker`, `Docker Compose`, `GitHub Actions`, `Prometheus`, `Grafana` |
-| **Pemantauan** | `Sentry` |
+| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> `TypeScript` <img src="[URL\_LOGO\_REACT\_NAVIGATION]" width="30" alt="React Navigation Logo"\> `React Navigation` <img src="[URL\_LOGO\_ZUSTAND]" width="30" alt="Zustand Logo"\> `Zustand` |
+| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  /> |
+| **AI / Machine Learning** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  /> |
+| **Database & Cache** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  /> |
+| **Panggilan Video** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  /> |
+| **DevOps & Infrastruktur** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  /> |
+| **Pemantauan** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  /> |
 
 -----
 
